@@ -1,0 +1,23 @@
+{
+  "name": "practico-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dradav97/social_network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dradav97/social_network/issues"
+  },
+  "homepage": "https://github.com/dradav97/social_network#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.25"
+  }
+}
