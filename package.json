@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/dradav97/social_network#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "nanoid": "^3.1.25"
   }
 }
