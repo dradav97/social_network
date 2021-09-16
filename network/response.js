@@ -8,7 +8,8 @@ const statusMessage = {
   '400': 'Bad Request',
   '401': 'Unautorized',
   '403': 'Forbidden',
-  '404': 'Not Found'
+  '404': 'Not Found',
+  '500': 'Internal Server Error',
 }
 
 
